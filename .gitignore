@@ -21,3 +21,6 @@ SurvivalGame/Releases
 *.modules
 *.opendb
 *.VC.db
+.vscode/
+Intermediate
+SurvivalGame/Binaries/*
