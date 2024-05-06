@@ -22,5 +22,6 @@ SurvivalGame/Releases
 *.opendb
 *.VC.db
 .vscode/
+*.code-workspace
 Intermediate
 SurvivalGame/Binaries/*
